@@ -1,0 +1,2 @@
+#from crazy_bomberman_gym.envs.crazy_bomer_man_env import CrazymaaanEnv
+from crazy_bomberman_gym.envs.crazy_bomer_man_env import CrazymaaanEnv
